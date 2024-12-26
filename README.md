@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently studying Bachelor of Science in Information Technology. <br>I'm interested in front end developing (UI/UX designing) and I'm just <br>curious about web developing even if it's pain in the ass (hahahah)<br><br>I'm kinda proficient in PHP, HTML and CSS (Javascript still learning)<br><br>I'm also interested about creating API and I dream of building a volleyball-related stuff one day.<br><br>
+I'm currently pursuing a Bachelor of Science in Information Technology. I’m passionate about front-end development, with a keen interest in UI/UX design. Although web development sometimes feels challenging, I enjoy exploring its intricacies.
+
+I have a solid foundation in PHP, HTML, and CSS, and I’m actively learning JavaScript to enhance my skills. I’m also fascinated by API development and aspire to create volleyball-related tech projects in the future.
+
+Let’s connect and collaborate as we build exciting things together!
 
 
 ## 🌐 Socials:
